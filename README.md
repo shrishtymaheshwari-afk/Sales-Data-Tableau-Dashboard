@@ -22,16 +22,16 @@ The main goal of this project was to improve business decision-making through da
 
 Amazon generated the highest overall profit among all order sources with approximately ₹10.06L profit contribution.
 
-### 👥 Customer Segment Analysis
+### Customer Segment Analysis
 
 * Consumer segment contributed the highest sales volume.
 * Corporate segment showed strong profitability, indicating high-value customer potential.
 
-### 📦 Category Performance
+### Category Performance
 
 Office Supplies emerged as the most profitable category with ₹21.46L profit.
 
-### 📈 Profit Margin Trends
+### Profit Margin Trends
 
 Profit margins remained consistently stable between 6.75% and 6.90% from 2018 to 2021, reflecting sustainable business growth.
 
@@ -67,9 +67,11 @@ Through this project, I improved my understanding of:
 ## 🔗 GitHub Repository
 [Download Tableau File](<SALESS DATAA.twbx>)
 
+## DASHBOARD PREVIEW
+![Dashboard Screenshot](<SALES DATA DASHBOARD.png>)
 
-## 📌 Conclusion
+## Conclusion
 
 This dashboard demonstrates how business data can be converted into meaningful insights using visualization tools like Tableau. By combining analytics with storytelling, organizations can make faster and smarter business decisions.
 
-⭐ If you found this project interesting, feel free to explore the repository and connect with me on LinkedIn.
+If you found this project interesting, feel free to explore the repository and connect with me on LinkedIn.
